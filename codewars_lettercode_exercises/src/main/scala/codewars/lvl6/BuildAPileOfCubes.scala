@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object BuildAPileOfCubes {
   def currentCube(n: Int): Long = Math.pow(n, 3).toLong

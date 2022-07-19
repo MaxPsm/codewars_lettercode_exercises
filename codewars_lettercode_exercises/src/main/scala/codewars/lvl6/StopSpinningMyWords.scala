@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object StopSpinningMyWords {
   def spinWords(sentence: String): String = {

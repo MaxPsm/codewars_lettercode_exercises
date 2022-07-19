@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object DecodeTheMorseCode {
   def decode(msg: String, morseDictionary: Map[String, String]): String =
