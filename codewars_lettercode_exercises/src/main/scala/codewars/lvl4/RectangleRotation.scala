@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl4
 
 object RectangleRotation {
   def rectangleRotation(a: Int, b: Int): Int = {

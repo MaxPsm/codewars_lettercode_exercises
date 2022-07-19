@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object ConvertStringToCamelCase {
   def toCamelCase(str: String): String = str match {

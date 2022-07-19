@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl5
 
 object PrimesInNumbers {
   def goFactors(base: Int, n: Int, currStr: String, currValue: Int, currCount: Int, isPrime: Boolean): String = n match {

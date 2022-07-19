@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl5
 
 object MeanSquareError {
   def solution(a: Array[Int], b: Array[Int]): Double = {

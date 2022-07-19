@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object TakeATenMinutesWalk {
   def isValidWalk(walk: Seq[Char]): Boolean = {

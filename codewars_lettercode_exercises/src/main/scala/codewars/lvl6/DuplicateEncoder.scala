@@ -1,4 +1,4 @@
-package codewars
+package codewars.lvl6
 
 object DuplicateEncoder {
   def duplicateEncode(word: String): String = word match {

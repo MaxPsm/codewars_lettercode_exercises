@@ -1,3 +1,5 @@
+package codewars.lvl3
+
 import java.util.Random
 
 object Psychic {
