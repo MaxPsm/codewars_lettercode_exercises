@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars_lettercode_exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars_lettercode_exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars_lettercode_exercises-build.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars_lettercode_exercises-build.iml" />
     </modules>
   </component>
 </project>
