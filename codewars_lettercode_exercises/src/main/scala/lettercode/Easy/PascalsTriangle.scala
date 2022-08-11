@@ -43,7 +43,3 @@ object PascalsTriangle {
     iter(0, Nil).reverse
   }
 }
-
-object Main extends App {
-  println(PascalsTriangle.generate(5))
-}
